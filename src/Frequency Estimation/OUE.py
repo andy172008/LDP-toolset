@@ -3,3 +3,17 @@
 # @Author : 贺星宇
 # @File : OUE.py
 # @Software: PyCharm
+
+import numpy as np
+from random import choice
+from collections import Counter
+
+
+class OUE_USER(object):
+    def __init__(self):
+        pass
+
+
+class OUE_SERVER(object):
+    def __init__(self):
+        pass

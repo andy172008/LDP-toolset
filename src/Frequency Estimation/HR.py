@@ -3,3 +3,15 @@
 # @Author : 贺星宇
 # @File : HR.py
 # @Software: PyCharm
+
+import numpy as np
+from random import choice
+from collections import Counter
+
+class HR_USER(object):
+    def __init__(self):
+        pass
+
+class HR_SERVER(object):
+    def __init__(self):
+        pass
