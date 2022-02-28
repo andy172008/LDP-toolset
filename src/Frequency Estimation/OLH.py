@@ -45,7 +45,7 @@ class OLH_USER(object):
         return seed, hash
 
     def perturb(self, encode_list):
-        for i in len(encode_list)
+        for i in len(encode_list):
             if np.random.uniform(0, 1) < self.p:
                 return encode_list
             else:
